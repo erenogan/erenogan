@@ -1,4 +1,4 @@
-  ![MasterHead](https://i.pinimg.com/736x/5b/73/26/5b73263ee7c1836c145ca404bb999736.jpg)
+  ![MasterHead](https://i.pinimg.com/originals/3a/38/47/3a3847c5342aa65e976e389290f4e265.jpg)
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
