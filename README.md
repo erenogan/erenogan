@@ -1,4 +1,4 @@
-![MasterHead](https://www.pinterest.com/pin/cool-car-pictures--4925880838555068/)
+![MasterHead](https://i.pinimg.com/736x/71/66/33/71663395bc0b05ec8d6c6fd5243a53b9.jpg)
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
