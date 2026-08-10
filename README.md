@@ -1,4 +1,4 @@
-  ![MasterHead](https://preview.redd.it/lightning-mcqueen-8k-7891x5261-v0-pgbuo6hbxojb1.jpg?width=1080&crop=smart&auto=webp&s=471799dd14c33769c01ce4a2c4898f780e7cb1b3)
+  ![MasterHead](https://i.pinimg.com/736x/5b/73/26/5b73263ee7c1836c145ca404bb999736.jpg)
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
